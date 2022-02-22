@@ -4,4 +4,5 @@ class Login (var username:String, var password: String){
     override fun toString(): String {
         return "$username $password"
     }
+    var test="nama saya kevin"
 }
